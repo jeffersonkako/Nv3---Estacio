@@ -11,4 +11,4 @@
 
 **Missão Prática | Nível 3 | Mundo 2**
 
-Ract, ts, next
+React, ts, next
